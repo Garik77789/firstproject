@@ -5,3 +5,5 @@ hyy = 124
 helo = 3
 
 aman = 2
+
+enter = 'adf'
